@@ -1,0 +1,49 @@
+body{
+    margin: auto;
+    max-width: 1180px;
+}
+
+p {
+    font-size:  1.5rem;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    color: red;
+}
+
+.vilains {
+    display: block;
+    width: 650px;
+    margin: auto;
+}
+
+ul {
+    text-align: center;
+}
+
+li { 
+    display: inline; 
+}
+
+.vilains li:hover {
+    cursor: pointer;
+}
+
+img{
+    width: 300px;
+}
+
+.chosenVilain  img{
+    display: none;
+}
+
+span img{
+   display: block;
+    width: 500px;
+    margin: auto;
+}
+
